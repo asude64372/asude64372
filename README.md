@@ -30,7 +30,7 @@
 ## 📬 Get in Touch  
 📧 **Email:** kaldirimli_sicaklik_0v@icloud.com 
 🔗 **LinkedIn:**  www.linkedin.com/in/asudekaya28
-🌐 **Website:** [brightenglish.tech]  
+🌐 **Website:** brightenglish.tech 
 
 ---## Hi there 👋
 
