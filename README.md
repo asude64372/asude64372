@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Tech Stack  
-💻 **Programming:** Python, C++, C#, SQL, Java (learning)  
+💻 **Programming:** Python, C++, C#, SQL, Javascript (learning)  
 📊 **Database:** PostgreSQL, MySQL  
 🖌️ **Tools:**  GitHub, Canva, Excel  
 
